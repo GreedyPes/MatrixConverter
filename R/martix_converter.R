@@ -3,8 +3,8 @@
 
 #' Conversione matrice
 #'
-#' @param input_file File in entrata
-#' @param output_file File in uscita
+#' @param input_file matrix.mtx
+#' @param output_file matrix_dense.mtx
 #' @export
 #'
 matrix_conversion <- function(input_file, output_file) {
